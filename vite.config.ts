@@ -20,7 +20,7 @@ export default defineConfig(({ mode, command }) => {
     base: './',
     // 开发服务器选项 https://cn.vitejs.dev/config/server-options
     server: {
-      allowedHosts: ['9000-zzlorz-dmadmin-n37nq7s7tpq.ws-us117.gitpod.io'],
+      allowedHosts: ['9000-zzlorz-adminview-jllc3g6nk8q.ws-us117.gitpod.io'],
       open: true,
       host: true,
       port: 9000,
